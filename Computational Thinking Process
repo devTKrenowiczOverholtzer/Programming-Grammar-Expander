@@ -1,4 +1,12 @@
-1. Decomposition 
+1. Decomposition:
+  Complex Problem: Expand Grammar Rules 
+  
+  Manageable Parts: 
+  - read the grammar file 
+  - seperate out the grammar rules by line or production 
+  - copy the production line or write into new file (line to be changed) 
+  - 
+
 2. Pattern Recongition 
 3. Abstraction 
 4. Algorithm
